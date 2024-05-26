@@ -62,3 +62,6 @@ Redirect the user to https://www.example.com/some/long/path.
 5. Integration with frontend.
 6. Testing and Debugging.
 7. DEPLOYMENT.
+
+=============================== DISCLAIMER ==================================
+This setup provides a basic URL shortener. For a production environment, consider using a database like MongoDB or MySQL, adding validation, error handling, and improving security measures.
